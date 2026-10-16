@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.idea/
+
+# Generated experiment outputs
+result/**/*
+!result/.gitkeep
+!result/**/.gitkeep
+
+# Local temporary files
+*.tmp
+*.log
